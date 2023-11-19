@@ -1,0 +1,37 @@
+
+.image-item {
+  display: inline;
+  margin: 20px;
+  flex-direction: row;
+ 
+}
+.image-item__btn-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  position: absolute;
+ 
+}
+button {
+  height: 40px;
+}
+.rounded-img{
+    border-radius: 10px;
+}
+.img-style {
+  height: 200px;
+  width: 200px;
+  margin: 1px;
+  padding: 5px;
+border: 5px solid lightskyblue;
+border-radius: 20px;
+display: inline-block;
+flex-direction: row;
+}
+.img-style:hover{
+  height: 205px;
+  width: 205px;
+  cursor: pointer;
+  background-color: black;
+  border: 5px solid lightskyblue;
+}

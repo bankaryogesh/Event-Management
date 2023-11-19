@@ -1,0 +1,18 @@
+.search-bar-bg{
+    background-color: whitesmoke;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 50px;
+}
+.search-bar-box{
+    border: none;
+}
+.border-remove{
+    border: none;
+}
+.btn-danger{
+    background-color: #f53f7b;
+    padding: 10px;
+    width: 150px;
+    border-radius: 50px;
+}
