@@ -10,7 +10,8 @@ export function Home() {
       <div>
         <h1 className="text-center text-black p-5"> Welcome to Party</h1>
         <h1 className="text-center text-secondary p-5">
-          Top Party Organizers in industries
+        In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate 
+        
         </h1>
         <div className="row">
           <div className="col-1"></div>

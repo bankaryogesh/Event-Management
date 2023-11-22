@@ -6,7 +6,7 @@ export function SearchBar() {
     <div>
       <div className="row">
         <div className="col-4">
-          <input type="text" placeholder="What You're Looking For ?"  className="search-bar-box  form-control"/>
+          <input type="text" placeholder="Search ?"  className="search-bar-box  form-control"/>
         </div>
         <div className="col-6">
           <select name="" id="" className="m-2 border-remove"> 

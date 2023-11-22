@@ -11,7 +11,7 @@ export function Menu() {
       </label>
 
       <label>
-        <Link to="/user/event-catagory/birthday-event" className="menu-item">
+        <Link to="/user/event-catagory/birthday-event" className="menu-item" >
           BIRTHDAY-EVENT
         </Link>
       </label>

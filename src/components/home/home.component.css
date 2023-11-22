@@ -1,7 +1,11 @@
-.text-white {
-  font-size: 60px;
+
+.Home .text-center1{
+  font-size:sm;
+  font-style: italic;
+  text-align: center;
 }
-.popular-cat-main {
+
+.popular-cat-main { 
   display: flex;
   justify-content: space-around;
   background-color: #78757526;
@@ -19,7 +23,7 @@
   border-radius: 5px;
 }
 .popular-cat:hover {
-  background-color: #f53f7b;
+  background-color: yellow;
   transition-delay: 0.1s;
   cursor: pointer;
   color: white;
@@ -31,7 +35,7 @@
   margin-top: 300px;
 }
 .decoration {
-  border-bottom: 3px solid #f53f7b;
+  border-bottom: 3px solid yellow;
 }
 .why-us {
   height: 200px;
@@ -46,7 +50,7 @@
   height: 200px;
   width: 400px;
   border-radius: 5px;
-  background-color: #ee417bf4;
+  background-color: yellow;
   color: #f4efef;
   transition-duration: 0.5s;
   transition-timing-function: ease-in;
@@ -86,7 +90,7 @@
 }
 .mostviewed-img:hover {
   border-radius: 10px;
-  background-color: #f8aac4ae;
+  background-color: yellow;
 }
 
 .footer {

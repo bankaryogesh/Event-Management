@@ -1,18 +1,20 @@
 .search-bar-bg{
     background-color: whitesmoke;
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
-    border-radius: 50px;
+    border-radius: 10px;
 }
 .search-bar-box{
     border: none;
+
 }
 .border-remove{
     border: none;
 }
 .btn-danger{
-    background-color: #f53f7b;
-    padding: 10px;
-    width: 150px;
-    border-radius: 50px;
+    background-color: black;
+    padding: 5px;
+    width: 100px;
+    border-radius: 20px;
+    color: white;
 }

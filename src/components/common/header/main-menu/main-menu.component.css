@@ -2,3 +2,7 @@
     background-image: url(../../../../assets/images/home-bg.jpg);
     height: 100vh;
 }
+
+.main-menu .header-bg .row{
+    margin: 5px;   
+}
