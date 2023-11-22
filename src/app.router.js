@@ -15,7 +15,7 @@ export function AppRouter(){
         <Routes>
              <Route path="/" element={<Home></Home>}></Route>
             <Route path="/user/event-catagory/birthday-event" element={<BirthdayEvent></BirthdayEvent>}></Route>
-            <Route path="/user/event-catagory/anniversary-event" element={<AnniversaryEvent></AnniversaryEvent>}></Route>
+            <Route path="/user/event-catagory/anniversary-event"element={<AnniversaryEvent></AnniversaryEvent>}></Route>
             <Route path="/user/event-catagory/wedding-event" element={<WeddingEvent></WeddingEvent>}></Route>
             <Route path="/admin/event/gallery" element={<ImageGallery></ImageGallery>}></Route>
             <Route path="/user/user-registration/user-registration" element={<UserRegistrationPage></UserRegistrationPage>}></Route>

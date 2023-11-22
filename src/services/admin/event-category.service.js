@@ -10,7 +10,6 @@ export function getEventCategory(){
       return saveData(url,data);
     }
 
-
     export function updateEventCategory(data){
       return updateData(url,data.id ,data);
     }

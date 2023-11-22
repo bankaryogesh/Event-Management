@@ -5,7 +5,7 @@ export const MainMenu = () => {
   return (
   <div className="header-bg  menu "> 
     <div className="row ">
-      <div className="col-3 text-white">
+      <div className="col-3 text-black">
         <h4 className="m-2">LOGO</h4>
       </div>
       <div className="col-7">

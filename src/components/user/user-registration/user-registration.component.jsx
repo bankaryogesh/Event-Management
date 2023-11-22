@@ -55,7 +55,7 @@ useEffect(()=>{
         </tbody>
       </table> */}
       {/* <GridComponent headers = {UserRegistraionHeader} data ={user}></GridComponent> */}
-      <GridComonent headers = {UserRegistraionHeader} data ={User}></GridComonent>
+      <GridComponent headers = {UserRegistraionHeader} data ={User}></GridComponent>
     </div>
   );
 }

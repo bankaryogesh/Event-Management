@@ -1,18 +1,19 @@
 @import url(../node_modules//bootstrap//dist/css/bootstrap.min.css);
 
 
- *{
-margin: 0px;
-padding: 0px;
-} 
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
-.menu{
+.menu {
     position: sticky;
     padding: 10px;
     top: 0;
+    color: black;
 }
 
-.header-bg{
+.header-bg {
     background-image: url(./assets/images/home-bg.jpg);
     height: 100vh;
 }

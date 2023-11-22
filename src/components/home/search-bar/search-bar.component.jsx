@@ -10,19 +10,19 @@ export function SearchBar() {
         </div>
         <div className="col-6">
           <select name="" id="" className="m-2 border-remove"> 
-            <option value="">Birthday</option>
-            <option value="">Wedding </option>
-            <option value="">Anniversary </option>
+            <option value="">Event1</option>
+            <option value="">Event2 </option>
+            <option value="">Event3 </option>
           </select>
           <select name="" id="" className="m-2 border-remove">
-            <option value="">BIRTHDAY</option>
-            <option value="">WEDDING </option>
-            <option value="">ANNIVERSARY </option>
+            <option value="">Event1</option>
+            <option value="">Event2 </option>
+            <option value="">Event3 </option>
           </select>
           <select name="" id="" className="m-2 border-remove">
-            <option value="">BIRTHDAY</option>
-            <option value="">WEDDING </option>
-            <option value="">ANNIVERSARY </option>
+            <option value="">Event1</option>
+            <option value="">Event2 </option>
+            <option value="">Event3 </option>
           </select>
         </div>
         <div className="col-2">

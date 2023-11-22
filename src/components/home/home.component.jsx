@@ -8,9 +8,9 @@ export function Home() {
   return (
     <div>
       <div>
-        <h1 className="text-center text-white p-5"> Find Nearby Location</h1>
+        <h1 className="text-center text-black p-5"> Welcome to Party</h1>
         <h1 className="text-center text-secondary p-5">
-          Explore top-rated attractions, activities and more!
+          Top Party Organizers in industries
         </h1>
         <div className="row">
           <div className="col-1"></div>
