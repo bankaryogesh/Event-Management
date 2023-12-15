@@ -21,4 +21,4 @@ export function updateData(url,id,data){
 
 export function delateData(){
     return axios.delete()
-}
+} 
